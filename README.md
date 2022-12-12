@@ -4,7 +4,7 @@ Generate JavaScript from a fab spec.
 
 ![fabx.png](doc/fabx.png)
 # Usage
-![[doc/fabxscreenshot.png]]
+![screenshot](doc/fabxscreenshot.png)
 - load `fabx.html` into a browser
 - click one of the `fill` buttons to insert canned fabrication scripts, or, enter a fabx spec manually in the `src` field (one line or many lines)
 - click the `Click JavaScript from FMT specifcation` button
