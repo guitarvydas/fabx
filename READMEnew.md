@@ -25,7 +25,7 @@ On return:
 - `errorMessage` is a string, empty if the transpilation fully succeeded, else containing the text of an error message.
 
 # Usage - Demo
-![[fmt-js.png]]
+![[fabx.png]]
 Load `fmt-js.html` into a browser.
 
 Select one of the canned tests
