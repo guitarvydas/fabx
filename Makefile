@@ -1,2 +1,6 @@
-all:
+all: install
+
+install:
+	multigit -r
+
 
